@@ -1,0 +1,97 @@
+*{
+	margin:0;
+	padding: 0;
+	font-family: 'Courier New', Times New Roman;
+}
+
+h1 a{
+	color: gold;
+	text-decoration: none;
+	font-size: 45px;
+	font-weight:100; 
+	padding: 10px;
+	margin-bottom: 35px;
+	}
+
+header h2{
+	font-weight:100;
+	margin-top: -5px;
+	padding:10px;
+	font-size: 25px;
+	word-spacing: -6px;
+}
+
+header nav{
+	padding: 7px;
+}
+
+
+nav a{
+	color: grey;
+	padding: 5px;
+	opacity: 0.4;
+	margin-top:5px;
+	}
+
+article h3{
+	padding-top:20px;
+	padding-left: 10px;
+	color: gray;
+	font-size: 34px;
+	font-weight: 500;
+	opacity: 0.8;
+}
+
+article h2 a{
+	text-decoration: none;
+	color: black;
+	padding-left: 10px;
+}
+
+h2{
+	margin-top: 12px;
+	font-size:32px;
+	font-weight:150;
+}
+
+img{
+	margin-top:20px;
+	margin-bottom: 15px;
+	padding-left: 10px;
+}
+
+article p{
+	max-width: 940px;
+	/*padding-left: 10px;*/
+	color: gray;
+}
+
+article p::first-letter {
+	font-size: 550%;
+	float: left;
+	padding: 10px;
+	color: gold;
+}
+
+
+
+
+
+
+footer{
+	text-align: left;
+	margin-top: 24px;
+}
+
+h4 a{
+ text-decoration: none;
+ color: gold;
+ opacity: 0.7;
+ border-right: 25px;
+ max-width:900px;
+ padding-top: 21px; 
+ float:right;
+ min-width: 620px;
+ margin-top: 6px;
+}
+

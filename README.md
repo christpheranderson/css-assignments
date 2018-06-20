@@ -40,3 +40,4 @@ Here are some additional exercises to practice on your own!
 
 > Instructor Note: Remove the solution code before passing this lab on to students.
 # css-assignments
+# css-assignments
